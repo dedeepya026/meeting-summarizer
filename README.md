@@ -38,6 +38,8 @@ meeting-summarizer/
 
 
 ---
+## DEMO
+![Uploading image.png…]()
 
 ## 🎯 Use Cases
 
