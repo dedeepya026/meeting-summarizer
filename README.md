@@ -39,7 +39,7 @@ meeting-summarizer/
 
 ---
 ## DEMO
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/07cfcd14-24d9-4d78-9441-8a498f51b3ed" />
 
 ## 🎯 Use Cases
 
